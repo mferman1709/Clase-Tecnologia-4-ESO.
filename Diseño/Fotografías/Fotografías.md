@@ -10,6 +10,8 @@
 
 <img width="426" height="945" alt="image" src="https://github.com/user-attachments/assets/0dcd9350-667f-4674-acad-92b4e0263ac4" />
 
-**diseño tinkercard**
+**Diseño Tinkercard**
 
 <img width="527" height="437" alt="image" src="https://github.com/user-attachments/assets/230bb08a-a35f-4579-b3cd-9271f279337a" />
+
+<img width="536" height="472" alt="image" src="https://github.com/user-attachments/assets/6419146f-d895-42ec-8f4a-9e104106c38d" />
