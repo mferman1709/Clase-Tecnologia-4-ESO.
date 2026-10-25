@@ -5,3 +5,5 @@
 **Componentes**
 
 <img width="447" height="447" alt="image" src="https://github.com/user-attachments/assets/2fa8414c-4bbb-45c9-b034-20bde94e7ea7" />
+
+<img width="554" height="554" alt="image" src="https://github.com/user-attachments/assets/5da8056b-9585-4428-b749-47485d341a77" />
