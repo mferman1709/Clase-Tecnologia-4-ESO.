@@ -88,3 +88,112 @@ También podría instalarse en lugares con gran cantidad de personas, como coleg
 La papelera inteligente es un proyecto que combina electrónica y tecnología móvil para intentar mejorar un problema cotidiano: la falta de uso adecuado de las papeleras.
 
 Mediante sensores, una pantalla y una aplicación móvil, se busca crear un sistema más interactivo que motive a los usuarios a tirar la basura correctamente. Además, sus posibles aplicaciones en ámbitos laborales o espacios públicos podrían ayudar a mejorar la gestión de residuos y hacer más eficiente el mantenimiento de estos lugares.
+
+# Casa de pájaros inteligente
+
+## Elección de la propuesta ganadora
+
+Finalmente, mi propuesta de la papelera inteligente no fue la seleccionada como ganadora del proyecto. La propuesta elegida fue la de mi compañero Lorenzo, que consistía en diseñar una casa de pájaros inteligente capaz de automatizar el suministro de agua y comida para facilitar el cuidado de las aves.
+
+La idea de este proyecto surgió con el objetivo de crear un sistema que ayudase a mantener las necesidades básicas de los pájaros cubiertas sin que fuese necesario estar pendiente constantemente de rellenar los recipientes manualmente.
+
+
+
+Esta propuesta combina elementos de electrónica, automatización y sensores para crear una solución más cómoda y eficiente. Además, permite aplicar la tecnología a un ámbito diferente, utilizando sistemas similares a los empleados en otros proyectos de domótica.
+
+<img width="1600" height="1600" alt="image" src="https://github.com/user-attachments/assets/904cd0e0-df54-4746-b1fe-c47447ae63ef" />
+
+---
+
+# Descripción del proyecto
+
+El proyecto consiste en la creación de una casa de pájaros equipada con un sistema automático encargado de controlar el nivel de comida y agua disponible.
+
+La idea principal es incorporar sensores que permitan conocer cuándo los depósitos están bajos y activar automáticamente un mecanismo de rellenado. De esta forma, los pájaros siempre tendrían acceso a alimento y agua sin depender completamente de la intervención de una persona.
+
+El diseño estaría formado por una estructura exterior similar a una casa de pájaros tradicional, pero incorporando en su interior diferentes elementos electrónicos encargados de controlar el funcionamiento del sistema.
+
+Además de mejorar el cuidado de las aves, este proyecto también podría utilizarse como una forma de acercar la tecnología a la naturaleza, creando una solución donde la automatización ayuda a mejorar el mantenimiento de un pequeño ecosistema.
+
+---
+
+# Funcionamiento del sistema
+
+El funcionamiento de la casa inteligente se basaría en varios sensores conectados a un sistema de control.
+
+En primer lugar, los sensores medirían el nivel de agua y comida disponible dentro de los depósitos. Cuando alguno de estos niveles bajase por debajo de un límite establecido, el sistema enviaría una señal al controlador principal.
+
+A partir de esa información, se activaría un mecanismo automático encargado de rellenar los recipientes. Por ejemplo, una pequeña bomba de agua podría transportar líquido desde un depósito de almacenamiento hasta el bebedero, mientras que un sistema de compuertas o un pequeño motor podría liberar comida de forma controlada.
+
+De esta manera, se evitaría que los recipientes permaneciesen vacíos durante largos periodos de tiempo y se reduciría la necesidad de realizar revisiones constantes.
+
+---
+
+# Componentes necesarios
+
+Para desarrollar este proyecto serían necesarios diferentes componentes electrónicos:
+
+### Sensores
+
+Los sensores serían los encargados de obtener información sobre el estado de la casa de pájaros.
+
+Algunos posibles sensores serían:
+
+- **Sensor de nivel de agua:** permitiría conocer la cantidad de agua disponible en el depósito.
+- **Sensor de peso:** podría utilizarse para calcular la cantidad de comida restante.
+- **Sensor de proximidad o movimiento:** permitiría detectar la presencia de pájaros cerca de la casa.
+
+<img width="447" height="447" alt="image" src="https://github.com/user-attachments/assets/2af3bd22-f209-4235-b2fa-503f47ca1a2d" />
+<img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/17dafd06-4503-4c85-bc92-3d3579440d7a" />
+
+
+
+### Microcontrolador
+
+Sería necesario un microcontrolador encargado de recibir la información de los sensores y controlar los diferentes mecanismos.
+
+Algunas opciones podrían ser:
+
+- Arduino.
+- ESP32.
+
+Este componente actuaría como el cerebro del sistema, procesando los datos y enviando las órdenes necesarias para activar las bombas o motores.
+
+### Sistema de alimentación automática
+
+Para realizar el llenado automático serían necesarios diferentes mecanismos:
+
+- **Bomba de agua:** permitiría transportar agua desde un depósito hasta el bebedero.
+- **Motor o servomotor:** podría utilizarse para controlar la salida de comida.
+- **Depósitos de almacenamiento:** permitirían guardar agua y alimento suficiente para varios días.
+
+<img width="700" height="700" alt="image" src="https://github.com/user-attachments/assets/77c1a88b-bb0d-4001-a605-ed37c71f5e78" />
+
+### Fuente de alimentación
+
+El sistema necesitaría una fuente de energía para alimentar los componentes electrónicos.
+
+Una posible solución sería utilizar una batería recargable o incluso incorporar un pequeño panel solar, permitiendo que la casa funcionase de manera más autónoma.
+
+<img width="1601" height="1601" alt="image" src="https://github.com/user-attachments/assets/6672034b-32de-4f9d-9178-9dfbd6b2832d" />
+
+
+---
+
+# Posibles aplicaciones
+
+Aunque el proyecto está pensado principalmente para ayudar al cuidado de aves, podría tener diferentes aplicaciones.
+
+Podría instalarse en jardines particulares, parques o zonas naturales donde sea necesario proporcionar alimento y agua a los pájaros de forma controlada.
+
+Además, podría utilizarse con fines educativos en colegios o centros de aprendizaje, ya que permite mostrar cómo la tecnología puede aplicarse para ayudar al medio ambiente y a los animales.
+
+También podría servir como ejemplo de aplicación de sistemas automáticos, sensores e IoT, demostrando cómo pequeños dispositivos pueden facilitar tareas que normalmente requieren supervisión humana.
+
+---
+
+# Conclusión
+
+La casa de pájaros inteligente es un proyecto que combina tecnología y naturaleza para crear una solución práctica. Mediante sensores y sistemas automáticos, permite controlar el suministro de agua y comida, reduciendo la necesidad de intervención manual.
+
+La propuesta destaca por utilizar la electrónica y la automatización para resolver una necesidad sencilla, demostrando cómo la tecnología puede aplicarse en diferentes ámbitos más allá del uso habitual en dispositivos electrónicos.
