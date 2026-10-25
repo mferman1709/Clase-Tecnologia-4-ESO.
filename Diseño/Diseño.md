@@ -20,6 +20,17 @@ Por estos motivos, decidimos continuar estudiando otras alternativas que fueran 
 
 Después de analizar diferentes posibilidades y comentarlas junto con mi compañero Alejandro, decidimos seleccionar su propuesta, ya que era la opción que mejor se ajustaba al espacio disponible y la que presentaba menos dificultades tanto en la fabricación como en la instalación.
 
+## Ventajas y desventajas del proyecto
+
+| Ventajas | Desventajas |
+|----------|-------------|
+| La ubicación elegida permitiría colocar el mapa en un sitio visible y sin molestar. | Sería necesario mover un cuadro para aprovechar el espacio disponible. |
+| La estructura de madera sería sencilla de fabricar y tendría un coste reducido. | Habría que asegurar correctamente la estructura a la pared para evitar problemas. |
+| El diseño proporcionaría estabilidad y permitiría mantener el mapa fijo. | El montaje requeriría tiempo y varios materiales. |
+| Los materiales planteados serían fáciles de conseguir. | Al estar fijado a la pared, realizar cambios posteriores podría ser más complicado. |
+
+En general, consideramos que la solución propuesta sería adecuada, ya que permitiría colocar el mapa de Jaén de una forma segura y estable utilizando una estructura sencilla y resistente.
+
 La propuesta consistía en colocar el mapa en la parte posterior de la pared del ascensor, aprovechando una zona disponible que permitía instalarlo sin interferir con el funcionamiento habitual del espacio. Además, esta ubicación permitía que el mapa quedase en un lugar visible, protegido y con una integración adecuada dentro del entorno.
 
 <p align="center"><img width="426" height="945" alt="image" src="https://github.com/user-attachments/assets/1e2201eb-2d94-43f6-b877-78eb46681061" />
