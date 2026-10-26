@@ -1,3 +1,8 @@
+# Teleco Games
+<p align="center"><img width="400" height="400" alt="image" src="https://github.com/user-attachments/assets/4ab4935c-640b-4ce5-9e0c-f07928b7419c" /></p>
+
+**Objetivo de Teleco Games**
+
 # Papelera inteligente
 <img width="1254" height="1254" alt="image" src="https://github.com/user-attachments/assets/c2d4a5eb-64f9-4aeb-8365-101382d86eb5" />
 
