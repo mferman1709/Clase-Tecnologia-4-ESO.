@@ -1,7 +1,7 @@
 <p align="center">
 <img width="300" height="300" alt="Tecnologia en la salud" src="https://github.com/user-attachments/assets/6d478ef4-925f-4082-8edd-be0a2e722d55" />
 
-
+# Tabla enlaces a todos los .md
 
 | Asignatura / Bloque | Enlace al repositorio |
 | :--- | :--- |
@@ -11,4 +11,4 @@
 | ODS | [Ver ODS.md](https://github.com/mferman1709/Clase-Tecnologia-4-ESO./blob/main/ODS/ODS.md) |
 | Teleco Games | [Ver Teleco Games.md](https://github.com/mferman1709/Clase-Tecnologia-4-ESO./blob/main/Teleco%20Games/Teleco%20Games.md) |
 
-Tabla hecha con ayuda de IA
+**Tabla hecha con ayuda de IA**
