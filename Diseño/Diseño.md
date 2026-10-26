@@ -1,4 +1,9 @@
-**Propuesta inicial de diseño**
+# Propuesta inicial de diseño
+En este proyecto, cada alumno debía elaborar una propuesta sobre dónde colocar el mapa de Jaén dentro del instituto. Para completar el proyecto, era necesario elegir un lugar adecuado para instalarlo, utilizando el soporte diseñado en Tinkercad.
+
+Después, por parejas, debíamos comparar nuestras propuestas, valorar sus ventajas y elegir la que consideráramos más adecuada. A continuación, cada pareja tenía que exponer su propuesta ante la clase y, finalmente, el profesor elegía la pareja cuya idea fuera la más apropiada para llevar a cabo el proyecto.
+
+
 <p align="center">
   <img width="1679" height="945" alt="image" src="https://github.com/user-attachments/assets/85c9d679-ca68-4773-a044-f3aa3d55bb8e" />
 Una de las primeras ideas planteadas para la instalación del mapa consistía en crear una base de madera fijada a la pared mediante dos listones del mismo material, proporcionando una estructura firme donde colocar el mapa. Sobre esta base se añadiría una vitrina de cristal con apertura plegable hacia arriba, permitiendo un acceso más cómodo para realizar tareas de mantenimiento o posibles modificaciones en el mapa de Jaén.
@@ -36,7 +41,7 @@ La propuesta consistía en colocar el mapa en la parte posterior de la pared del
 <p align="center"><img width="426" height="945" alt="image" src="https://github.com/user-attachments/assets/1e2201eb-2d94-43f6-b877-78eb46681061" />
 
 
-El único inconveniente que encontramos fue la necesidad de desplazar un cuadro que se encontraba situado en esa pared para poder disponer de todo el espacio necesario para la instalación. Aun así, consideramos que era una modificación sencilla de realizar y que las ventajas de esta ubicación compensaban ampliamente este pequeño cambio.
+El mayor inconveniente que encontramos fue la necesidad de desplazar un cuadro que se encontraba situado en esa pared para poder disponer de todo el espacio necesario para la instalación. Aun así, consideramos que era una modificación sencilla de realizar y que las ventajas de esta ubicación compensaban ampliamente este pequeño cambio.
 
 Antes de llevar a cabo la construcción física, realizamos un diseño previo mediante Tinkercad para comprobar la distribución de los elementos y visualizar cómo quedaría la instalación final. En las siguientes imágenes se puede observar una representación aproximada de la colocación del mapa y de la estructura encargada de sujetarlo.
 
